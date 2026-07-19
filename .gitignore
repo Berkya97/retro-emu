@@ -1,0 +1,13 @@
+# build çıktıları / build outputs
+build/
+
+# ROM'lar ve kayıtlar / ROMs and saves (test ROM sources are linked in the README)
+roms/
+*.sav
+*.nes
+*.gb
+*.gbc
+
+# geçici dökümler / temp dumps
+*.bmp
+*.wav
